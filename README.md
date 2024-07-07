@@ -1,4 +1,3 @@
-# Hotel-Bookings-Dashboard
 # Hotel Bookings Dashboard
 
 This repository contains an Excel dashboard that visualizes hotel booking data. The data was sourced from Kaggle, cleaned and edited using Power Query Editor, and then used to create pivot tables and various interactive graphs. The dashboard includes slicers for easy filtering and data exploration.
